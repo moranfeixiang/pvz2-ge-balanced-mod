@@ -1,0 +1,673 @@
+Welcome to maido's Rebalance mod! Paste this in-game: gePatcher.init(), and here are the changes:
+====== BUFFS ======
+Bloomerang:
+- Fire Rate: 2.7 > 2.25
+- Pierce Count: 3 > 5
+- Bloomerang's increased pierce count and roughly 20% higher DPS makes it better synergize with its home world, where graves are abundant, as a relatively costly plant.
+
+Iceberg Lettuce:
+- Freeze Duration: 10 > 12
+- Added chill duration: 15
+- Just to make it able to better compete with Stunion.
+
+Dandelion:
+- Wind Recover Time: 15 > 12
+- Blown Seed Damage: 25 > 50
+- Recharge: 15 > 10
+- Dandelion is a decent AoE damage plant that has their dps significantly boosted when there are multiple of them on the lawn. However, their heavy 15-second cooldown combined with the high cost is slightly too expensive. A slight recharge buff now makes it a bit more accessible.
+
+Spring Bean:
+- Knockback Distance: 1 > 3
+- Rest time: 10 > 12
+- Cost: 25 > 50
+- The infamous Spring Bean can now infinitely stall ONE zombie thanks to its increased knockback. Be sure to save it from the undead's incoming friends, though!
+
+Jalapeno:
+- Cost: 125 > 100
+- Jalapeno is often overshadowed by Cherry Bomb. A slight price decrease can be seen as a compensation for the global insta recharge nerf.
+
+Hypno-shroom:
+- Cost: 125 > 75
+- There's no way Hypno-shroom is worth the incredible price tag of 125 when there are so many better choices. 50 sun should allow it to compete with the likes of Chili Bean and Squash.
+
+Sun Bean:
+- Cost: 50 > 0
+- Recharge: 20 > 25
+- Sun Beans are now free so you will always profit from incoming zombies! A slightly longer recharge should not be much of an issue as long as you can manage your seeds.
+
+Bowling Bulb:
+- Cost: 200 > 175
+- Initially I planned to rework this plant by decreasing its range to give it time to regrow the bulbs but I haven't figured out how yet. This is a temporary change until then.
+
+Hot Potato:
+- Recharge: 10 > 5
+- Nobody really likes frost winds, especially when common heaters are quite terrible at their job. With her reduced recharge, Hot Potato can now help you thaw your frozen veggies significantly faster!
+
+Pepper Pult:
+- Fire Rate: 2.85 > 2.7
+- Cost: 200 > 175
+- Recharge: 20 > 7.5
+- 20 seconds recharge for a plant like Pepper-pult is utterly insane when vanilla Melon-pult only needs 5 seconds.
+
+Sweet Potato:
+- Cost: 150 > 100
+- Just to make her a wee bit better pick.
+
+Intensive Carrot:
+- Cost: 100 > 75
+- Recharge: 20 > 15
+- Health Return: 0.5 > 1.5
+- "Intensive Carrot makes you lose slower", not anymore! Plants brought back to life by Intensive Carrots will have 1.5 the amount of their original health. This makes Carrot an interesting pick in levels with a lot of ambush events or Imps thrown by Gargantuars.
+
+Celery Stalker:
+- Toughness: 1200 > 1500
+- Recharge: 15 > 20
+- Celery Stalker is a strong plant but rather inconsistent due to its naturally low HP. Celery's buffed toughness should give it a few more opportunity to hide before getting consumed, while still vulnerable to larger hordes.
+
+Garlic:
+- Toughness: 900 > 2400
+- Plant Food Stun: 6 > 7
+- Recharge: 5 > 10
+- No idea why he had 900 HP in vanilla. Garlic is now a much more viable plant worth a pick for your exotic strategies.
+
+Kernel-Pult:
+- Butter Chance: 0.3 > 0.35
+- A very slight buff to make it a bit more reliable.
+
+Electric Blueberry:
+- Gargantuar Target Chance: 5 > 10
+- Cost: 150 > 175
+- A very gimmicky plant that often either leaves you disappointed or jaw dropped. Hopefully this will make it a wee bit more reliable.
+
+Grave Buster:
+- Toughness: 300 > 900
+- Lock and key plant made a bit more reliable.
+
+Plantern:
+- Toughness: 300 > 900
+- Recharge: 10 > 15
+- Plantern's unique mechanic of making zombies drop sun when defeated is a powerful one that requires it to be at the front of the battle. The toughness increase helps its survivability with a nerf to its recharge to compensate.
+
+Phat Beet:
+- Damage: 15 > 20
+- Critical Damage: 45 > 50
+- Plant Food Damage Far: 200 > 300
+- Plant Food Damage Near: 800 > 1100
+- Recharge: 5 > 7.5
+- Phat Beet has always felt relatively underwhelming to use, even in numbers. Now they can bring forth the heavy beats with a straight damage buff!
+
+Vamporcini:
+- Toughness: 4000 > 3000
+- DPS: 20 > 15, Plant Food DPS: 40 > 20
+- Attack Duration: 6 > 10, Plant Food Attack Duration: 10 > 15
+- Vamporcini is a difficult plant to balance; buff her too much and she kills every single zombie around her, too little and it becomes unnoticeable. Overall, with the buffs, Vaporcini is still unable to kill any zombie on her own while being much more consistent, with a significantly higher walling potential.
+
+Potato Mine:
+- Plant Food Count: 2 > 3
+- A slight buff to give its Plant Food a bit more power.
+
+Bonk Choy:
+- Fire Rate: 0.3 > 0.27
+- Tomb Detect Range: 3 > 4
+- Make Bonk Choy a bit more consistent.
+
+Threepeater:
+- Plant Food Pea Count: 30 > 40
+- A slight buff to give its Plant Food a bit more power.
+
+Shadow-shroom:
+- Poison now lasts indefinitely
+- Small QoL change.
+
+Floawer Pot:
+- Plant Food Toughness: 900 > 2000
+- Plant Food Move Time: 2.5 > 1.0
+- Cost: 100 > 25
+- Recharge: 10 > 5
+- Vanilla Floawer Pot is horribly underwhelming; 100 sun and 10 sec recharge make it quite difficult to expand your plantable area. Furthermore, its Plant Food effect, while cool, is incredibly ineffective with its low HP increase and long move time. Floawer Pot should hopefully be significantly more viable after the buff to many of its stats.
+
+Red Stinger:
+- Fire Rate: 1.75 > 2.0
+- Stage 2 Projectile Damage: 20 > 30
+- Stage 2 HP: 900 > 1500
+- Stage 3 HP: 1500 > 4000
+- Red Stinger is a very flexible jack-of-all-trades plant, capable of both offensive and defensive measures. These buffs aim to improve his defensive stances to be more cost-effective, while dialing back his offensive power just a little bit. (fun fact: his DPS exceeds Repeater's by a smidge, even after the fire rate nerf!)
+
+Perfume-shroom:
+- Cost: 150 > 75
+- Perfume Duration: 9 > 5
+- Recharge: 30 > 25
+- Just a slight buff to combat those pesky saurians.
+
+Twin Sunflower:
+- Fully recharged at the start of a level
+
+Tall-nut:
+- Cannot be moved by Mecha-football Zombie, Excavator Zombie, Fisherman Zombie, Qigong Zombie, and Abbot Qigong
+- Cannot be destroyed by surfboards
+- Cost: 125 > 150
+- Recharge: 20 > 25
+- Tall-nut is now a heavy-duty alternative to Resistant Radish, and the go-to choice to counter almost any threats in the game, for the steep price of 150 sun and 25-second recharge. Note that they are still vulnerable to most instant-kill zombies like Parrots and Gargantuars.
+
+Resistant Radish:
+- Toughness: 2000 > 2500
+- Just to make it a bit more reliable.
+
+Pea Pod:
+- PF Damage: 200 > 900
+- Added splash damage to PF peas: 300, 1x1 radius
+- Old Pea Pod's Plant Food was horrible, now it is good :)
+====== NERFS ======
+All Sun Producers:
+- Production Time: 23.5 - 25 > 28.5 - 30
+- Sun is incredibly to acquire in PvZ2, and the nerf makes it a bit more challenging to plant heavier plants.
+
+Explosive instant kills (Cherry Bomb, Jalapeno, Grapeshot):
+- Recharge: 35 > 50
+- While it is true that PvZ 2 has a much faster pace than the first game, the recharge of these instas are simply too fast. This nerf should make players more careful when handling explosives.
+
+Grapeshot:
+- Damage: 1800 > 600
+- Cost: 150 > 175
+- Grapeshot deserves a massive nerf to be more comparable to Cherry Bomb. While Grape deals significantly less damage against large groups, it is more potent at taking out weaker zombies in a larger area.
+
+Blover:
+- Cost: 50 > 100
+- Recharge: 5 > 25
+- Blover is a boring plant. Put one down to get rid of all flying zombies for a cheap cheap cost of 50/5. The nerfs require players to think a bit more before using one.
+
+Ice-shroom:
+- Freeze Duration: 5 > 7.5
+- Chill Duration: 5 > 15
+- Rest time: 25 > 45
+- Cost: 300 > 425
+- Recharge: 30 > 45
+- Toughness: 700 > 300
+- Being able to freeze an entire lawn is an insanely powerful ability for a plant. Having two Ice-shroom is enough to significantly slow zombie progression, and three can keep the horde frozen indefinitely as long as you can cycle between them.
+
+Doom-shroom:
+- Damage: 1800 > 2700
+- Burnt Tile Duration: 180 sec > 120 sec
+- Cost: 225 > 275
+- Recharge: 35 > 75
+- The old recharge and cost were simply too cheap for a full-board nuke.
+
+Explode-o-nut:
+- Damage: 1800 > 450 (ignores armor)
+- Toughness: 3000 > 1500
+- Cost: 50 > 150
+- Recharge: 10 > 20
+- It unbelievable how absurdly overtuned vanilla Explode-o-nut was. The nerfed version can still kill most basic zombies, but will only deal a tiny amount of damage to naturally bulky ones (Mechs, Bullies, Gargantuars).
+
+Primal Wall-nut:
+- Cost: 75 > 125
+- Recharge: 5 > 7.5
+- A Wall-nut that only needs 5 seconds to recharge and can tank 3 Gargantuar smashes is quite crazy. This nerf keeps the plant strong within a reasonable limit.
+
+Cactus:
+- Cost: 175 > 225
+- Plant Food Pierce Increase: +1 > +2
+- Cactus simply outclasses Bloomerang in most situations. Now with the her slight nerf, hopefully Bloomerang will see more use with his higher pierce count.
+
+Sap-fling:
+- Cost: 75 > 175
+- Recharge: 5 > 15
+- Sap-fling is an incredibly powerful support plant for its cost, dare I say even more effective than Snow Pea! These big nerfs should put Sap-fling in line with other permanent stallers.
+
+Homing Thistle:
+- Fire Rate: 1.35 > 1.85
+- Recharge: 5 > 7.5
+- Powerful plant that can quickly ramps up and decimates waves with proper support. These nerfs will overall slow down the plant while keeping its power over the lawn.
+
+Pea Vine:
+- Fire Rate: 1.35 > 1.85
+- Cost: 100 > 150
+- Toughness: 250 > 150
+- Plant Food Pea Count: 60 > 30
+- Multiplier plants are incredibly strong, especially Pea Vine with its cost and recharge. These big nerfs make them more suitable for longer levels where heavy firepower is necessary.
+
+Melon-pult and Winter Melon:
+- Cost: 500 > 650 (Winter Melon)
+- Recharge: 5 > 10 (Melon-pult); 5 > 20 (Winter Melon)
+- Slow, heavy hitting plants deserving of slight nerf (Melon-pult) and significant drawbacks (Winter Melon).
+
+Primal Potato Mine:
+- Damage: 1800 > 480
+- Cost: 50 > 75
+- Reworked to be a powerful answer to early game rushes. Primal Potato Mine can instantly knock out weaker zombies, as well as any armored basics, but will fail to vanquish tougher guys.
+
+Escape Root:
+- Cost: 50 > 150
+- Recharge: 20 > 25
+- Switching to another insta is a fun gimmick, however, the cost for that is too cheap. I would remove the insta-summon ability and make it a cheap plant mobility tool if possible.
+
+Spore-shroom:
+- Cost: 150 > 175
+- Recharge: 5 > 10
+- The new and improved Spore-shroom now only requires a single shot to guarantee a clone spawn. This makes it extremely powerful if your defense can take down zombies fast enough, as the undead will constantly be stalled by infinite amount of shrooms.
+
+Hurrikale:
+- Recharge: 15 > 25
+- Blow Duration: 3 > 2.5
+- One of the best stallers in the entire game, spammable and affordable. The new hurrikale is now slightly less spammable and can only blow zombies back 5 tiles instead of 6.
+
+Thyme Warp:
+- Cost: 75 > 125
+- Literally the best staller you could ask for. Thyme Warp's powerful ability now comes with a heavy downside, requiring careful consideration before planting.
+
+Solar Tomato:
+- Sun per Zombie: 50 > 25
+- Stun Duration: 8 > 5
+- Solar Tomato simply needed more investment to turn a profit, as only two zombies were needed to earn sun previously.
+
+Skyshooter:
+- Cost: 150 > 125
+- Fire rate: 0.9 > 1.35
+- PF Pea Count: 75 > 45
+- Now fires regular pea, only fires propeller peas during PF
+- Propeller Peas Knockback: 0.05 > 0.4
+- Good DPS + knockback + flying plant all in a 150/5 package. Brought it to the same level as a basic attacker with knock back for Sky City.
+
+Sun Shroom:
+- Toughness: 300 > 150
+- Powerful sun producer with a ported change from Reflourished.
+
+Cold Snapdragon:
+- Chill Duration: 10 > 1.35
+- Cost: 225 > 350
+- Recharge: 5 > 10
+- Despite the short range, Cold Snapdragon's ability to AoE chill multiple lane at a time while boasting the same DPS as regular Snapdragon. The new Cold Snap functions not as a DPS, but a supportive chilling plant that requires large numbers to slow the horde effectively due to their short chill duration.
+
+Parsnip:
+- Cost: 150 > 225
+- Powerful melee plant with a devastating post-death effect. Surprisingly underused, but needs a nerf to not overshadow Bonk Choy.
+
+Ghost Pepper & Lava Guava:
+- Recharge: 15 > 25
+- Spammable plants with powerful effects. Both needs to be slowed down quite a bit.
+
+Electric Currant:
+- Cost: 150 > 225
+- Toughness: 300 > 600
+- Electric Currant went from zero to straight up beating heroes to a pulp with its newfound buff in the form of more connectors. It only makes sense that it now deserves a heavy nerf due to the extreme efficiency when used with a certain very spammable plant. Its toughness buff remains unchanged to keep it viable on its own.
+
+Lightning Reed:
+- Cost: 125 > 175
+- Currant Stun Duration: 0.5 > 0.15
+- As if Lightning Reed needed any buff, its new compatibility with Electric Currant made it quite a headache to balance. An incredibly spammable plant is now able to stun large hordes should take a hit to its affordability and stunning power.
+
+Gloom-shroom:
+- Damage: 100 > 50
+- Damage Duration: 0.8 > 1.0
+- Fire Rate: 1.5 > 2.0
+- Poison DPS: 60 > 30
+- Plant Food DPS: 1543 > 750
+- Cost: 250 > 275
+- Recharge: 10 > 20
+- Gloom-shroom has been nerfed to be more similar to Phat Beet in terms of damage, with an extra layer of synergy with shadow plants. Its poison damage when shadow powered has been significantly reduced, making them unable to kill armored zombies on their own, and must rely on protection from wall plants and the likes.
+
+Gold Leaf:
+- Cost: 50 > 75
+- Recharge: 10 > 15
+- Incredibly spammable secondary sun producer (imo) that can actually replace main ones. Needs a slight nerf to its spammability.
+
+Torchwood:
+- Damage: 10 > 5
+- Toughness: 2000 > 900
+- Recharge: 5 > 15
+- Death Damage: 450 > 300
+- Torchwood is an incredibly powerful and versatile multiplier plant in vanilla where he could act as a pseudo melee/wall plant while boosting the damage of all peashooting plants behind him for a rather acceptable cost of 175/5. He has sreceived some nerfs to make him less overtuned.
+
+Umbrella Leaf:
+- Cost: 50 > 175
+- Recharge: 10 > 20
+- Protect your plants from a any back line attack with a single plant! Umbrella Leaf truly required some nerf to "less" invalidate zombie ambushes. Were it unable to also bounce flying zombies, the nerf might have been less severe. Oh well.
+
+Chili Bean:
+- Recharge: 10 > 15
+- Toughness: 300 > 50
+- Make it more in line with other plants of its category.
+
+Dusk Lobber:
+- Damage: 5 > 25
+- Splash Damage: 25 > 15
+- Cost: 150 > 275
+- Vanilla Dusk Lobber is an incredibly cost-effective plant capable of defending multiple lanes, much like Threepeater. The nerfs given to her aim to reduce her insane crowd control ability. Dusk Lobber now deals more damage on her main target, but the splash damage is reduce, although still relatively powerful.
+
+Gold Bloom:
+- Cost: 0 > 100
+- Recharge: 75 > 50
+- No longer recharged at the beginning of a level
+- Gold Bloom is easily one of the most powerful plants in the entire game, capable of invalidating the whole early game. Significant nerfs in the form of a sun cost to limit its output (from 375 with a 125 sun fee, 250 sun profit) and a recharge at the beginning of a level keeps it as a secondary sun producer. To make its nerf less severe, the recharge has been considerably buffed, with 30 seconds slashed off!
+
+Grimrose:
+- No longer recharges leaves when powered
+- Cost: 75 > 25
+- No longer recharged at the beginning of a level
+- Grimrose is already a very strong insta-kill plant, having the ability to extend its stay even further pushes it close to overpowered territory, and has been removed to stay closer to vanilla. The recharge nerf is to keep it in line with other nerfed insta-kills.
+
+Blooming Heart:
+- Fire Rate: 2.85 > 2.7
+- Cost: 150 > 225
+- Recharge: 5 > 15
+- Blooming Heart has received a decent buff in GE - instead of dealing increasing damage against single targets, they now give stacking debuff to zombie defense instead! However, this buff works for every plant on the field, and the more Blooming Hearts you have the quicker you can stack them, making these plants quite overwhelming with the right set up. The big cost and recharge nerfs keep it in line with other buffers like Pea Vine and Torchwood.
+
+Shrinking Violet:
+- Damage Multiplier: 2.0 > 1.5
+- Speed Scale: 0.75 > 0.85
+- Cost: 50 > 75
+- Recharge: 15 > 30
+- Unlike plants like Lava Guava and Ghost Pepper, Shrinking Violet does not do heavy damage, but inflict zombies with serious debuffs that allow other attackers to finish off softened target. However, vanilla Violet was leagues above plants of its price range, and thus, multiple nerfs were given to keep it in check.
+
+Snowdrop:
+- Fire Rate: 1.35 > 2.7
+- Icicle Chance: 0.2 > 0.15
+- Cost: 200 > 225
+- Recharge: 5 > 15
+- Old Snow Pea's freezing successor - Snowdrop, has been immediately hit with a nerf hammer! Its fire rate is now more in line with most other lobbers, combined with a slightly lower AoE freeze chance, can be quite balanced as an AoE staller that can occasionally stop zombies dead in their tracks!
+
+Solar Sage:
+- Cost: 75 > 125
+- Recharge: 20 > 25
+- Solar Sage's unique ability to both defeat zombies and make them produce sun give her a massive edge against plants of similar use, like Squash. The price and recharge nerf are to keep her in similar cost-benefit ratio.
+
+Iceweed:
+- Damage: 10 > 5
+- Damage PF: 20 > 5
+- Plant Food Spikes: 3 > 1
+- Cost: 150 > 175
+- Iceweed was simply too effective at dealing damage, his damage output has been scaled back to be on the same level as Spikeweed. His Plant Food has also been toned down as it simply overperformed with damage, freeze, knockback, and resistance.
+
+Cantaloupe-pult:
+- Renamed to Canta-pult (cantaloupe and catapult, it's right there, garden)
+- Damage: 120 > 100
+- Splash Radius: 3x3 > 1x3
+- Cost: 500 > 325
+- Recharge: 5 > 10
+- Explosion Height: 200 > 130 (explodes closer to zombies, looks better imo)
+- Canta-pult's combination of extremely high damage output and generous 3x3 splash damage was simply way too good for her (yes, changed to female plant cus idk?) Now, Canta-pult is a Melon variant that trades its signature 3x3 splash for significantly higher lane-focused damage.
+====== REWORKS ======
+Laser Bean:
+- Damage: 40 > 50
+- Cost: 200 > 275
+- Imagine being the first ever piercing plant, then get replaced three worlds later, couldn't be me. Yep, Laser Bean now acts as a more powerful piercing plant compared to Bloomerang and Fume-shroom, with Electric Peashooter as the most powerful.
+
+Electric Peashooter:
+- Damage: 20 > 5
+- Bolt Damage: 20 > 10
+- Bolt Rate: 0.5 > 0.25
+- Bolt Chain: 2 > 4
+- Fire Rate: 2.7 > 2.25
+- PF Pea Count: 5 > 10
+- Cost: 200 > 475
+- Recharge: 5 > 20
+- Currant Stun Duration: 0.5 > 0.08
+- Electric Peashooter has been reworked to be the heaviest piercing plant in the arsenal. His single target damage has been greatly reduced, however, his crowd control power is now significantly more powerful.
+
+Fume Shroom:
+- Damage: 40 > 25
+- Fire rate: 2.4 > 1.35
+- I just wanna make him like pvz 1 man :(
+
+Pea-nut:
+- Damage: 20 > 30
+- Fire Rate: 2.0 sec (healthy); 0.65 (damaged)
+- Toughness: 4000 > 2000
+- Pea-nut was a confusing plant; an attacker that likes to be at the front, but also doesn't wanna get eaten? After the changes, it is actually a good idea to place Pea-nuts at the frontline - where it is the most likely to be damaged to benefit from its fire rate increase! Coincidentally, this makes Heavenly Peach a useful ally as Peach grants Pea-nut temporary invincibility, maintaining the latter's attack boost for that much longer!
+
+Primal Peashooter:
+- Damage: 20 > 50
+- Fire Rate: 2.85 > 4.35
+- Knockback Distance: 1 > 0.6
+- Knockback Chance: 0.5 > 1
+- Cost: 175 > 225
+- Taken straight out of Eclise (conceptually), Primal Peashooter is now a slow, hard-hitting plant with consistent knockback. Goes well with the nerfed Blover, too!
+
+Gloom Vine:
+- Damage: 45 > 20
+- Fire Rate: 2.7 > 1.5
+- Plant Food DPS: 1543 > 450
+- Cost: 125 > 75
+- Toughness: 250 > 150
+- Gloom Vine has been reworked into a support plant focused on providing temporary shadow boosts while dealing light AoE damage all the way. As with all vine changes, Gloom Vines now also have mediocre recharge and low toughness in exchange for a potentially powerful effect.
+
+Chomper:
+- Chew time: 17 > 12
+- Zombie Count: 2 > 1
+- Recharge: 5 > 10
+- Chomper is now the fastest eater of its group in exchange for much shorter range.
+
+Toadstool:
+- Zombie Count: 1 > 2
+- Sun Produced: 50 > 25
+- Cost: 200 > 275
+- Recharge: 5 > 10
+- Toadstool is now the insta-killer with the highest zombie count, which goes nicely with its sun production mechanic, in exchange for a significantly longer chew time between zombies.
+
+Primal Sunflower:
+- Cost: 75 > 100
+- Recharge: 5 > 7.5
+- Toughness: 300 > 900
+- Brought over from Reflourished. Primal Sunflowers are much better in levels with ways to help advance zombies forward (i.e. Jurassic Marsh).
+
+Moon Bean:
+- Damage: 450 > 200
+- Radius: 40 > 62
+- PF Damage: 400 (zombies); 0 (plants)
+- PF Radius: 62 > 90
+- Cost: 25 > 0
+- Recharge: 20 > 15
+- Moon Bean has been reworked to be a free, fast-recharge plant that deal AoE chip damage. Previously, choosing to detonate the Sun Bomb was the obvious choice in vanilla GE, but post-change Moon Bean gives the player an interesting choice - do you farm sun every 15 seconds, or do you want some quick chip damage?
+
+Jack O' Lantern:
+- DPS: 300 > 150
+- Cost: 225 > 325
+- Fire Time: 4.3 > 10.0
+- Fuel Reload: 5.0 > 10.0
+- Jack O' Lantern is an incredibly powerful plant when played right. He is capable of melting hordes in a short area incredibly quickly. The rework aims to bring out more value in his flamethrower by increasing its firing duration, allowing him to defeat more zombies than before. However, once his fuel runs out, Jack O' Lantern requires a whopping 15 seconds to recharge and is extremely vulnerable during that time.
+
+Citron:
+- Damage: 800 > 900
+- Added splash damage: 200, 1x1 radius
+- Fire Rate: 7 > 10
+- Plant Food Damage: 2500 > 3600
+- Citron has received some changes to make him function more like his vanilla counterpart with the slower fire rate. Fortunately, he now deals more damage with some splash to boot! Notably, the damage increase allows him to take out Gargantuars in 4 shots instead of 5.
+
+
+Magnifying Grass:
+- Damage: 700
+- Firing Cost: 50 > 75
+- Cost: 50 > 0
+- Recharge: 5 > 10
+- Accepts more plants for PF 
+- Magnifying Grass received a nerf to her firing cost, but a significant damage increase, giving her overall more value out of each attack. For Magnifying Grass-centric strategies, her Plant Food now draws power from more plants, and deals a bit more damage, too!
+
+Dragon Bruit:
+- Damage: 100 > 60
+- Removed splash damage
+- Fire Rate: 7 > 5
+- Poison Duration: 3 > 4.0
+- Poison DPS: 40 > 10
+- Cost: 250 > 450
+- Recharge: 10 > 20
+- Dragonbruit now fills the unique role as a poison spreader! Their raw damage output has been significantly reduced, alongside their cost and recharge, and the plant now relies more on its shadow form to have make a splash out of its spits.
+
+Baby Dragon Bruit:
+- Fire Rate: 6 > 5
+- Poison Duration: 3 > 2.5
+- Poison DPS: 40 > 15
+- Cost: 50 > 150
+- To keep it a bit more consistent with Dragon Bruit.
+
+Cranjelly:
+- DPS: 3000 > 2100
+- Velocity: 15 > 7
+- Recharge: 10 > 25
+- Cranjelly is a very spammable instant use plant that does very respectable damage across a lane, essentially acting as a lighter Jalapeno with better damage but also more expensive over multiple uses. It now has a significantly slower recharge but also rolls slower, allowing it to dish out more damage than usual.
+
+Meteor Flower:
+- Meteor Per Shot: 2 > 1
+- Lava Duration: 10 > 8
+- Fire Rate: 7 > 5
+- Cost: 250 > 325
+- Recharge: 10 > 15
+- Meteor Flower has been reworked to be a heavier Homing Thistle (yes, it targets the closest zombie to your home from anywhere) that can also deal splash damage and create an AoE tile. Do you want to use the cheaper and more accessible Homing Thistle that is consistently powerful against single targets? Or would you prefer the more powerful damage against multiple targets on a single tile from Meteor Flower in exchange for considerably higher cost and recharge?
+
+Buttercup:
+- Toughness: 900 > 300
+- Damage: 100 > 60
+- Plant Food Damage: 200 > 100
+- Butter Duration: 8 > 6
+- Butter Tile Lifetime: 120 > 7.5
+- Plant Food Butter Tile Lifetime: 18
+- Recharge: 10 > 25
+- Buttercup has been nerfed to be more in line with early game plants at the same cost, now sits nicely as competition against Stunion. Buttercup is incredible at holding off stray zombies early in the level, while Stunion is less permanent, but stay useful throughout a level.
+
+Nightshade:
+- Detection Range: 1.5 > 1.2
+- Shadow Boost Damage Scale: 0.5 > 1.0 (100 > 200)
+- Shadow Boost Detection Range: 9 > 3.2
+- Leaf Regrow Rate: 5.0 > 6.0
+- Fire Rate: 2.7 > 1.9
+- Cost: 75 > 175
+- Nightshade has been reworked to be a heavier Bonk Choy that has limited use unless shadow boosted, in which he will gain increased range in exchange for decreased damage. While his overall DPS has been significantly buffed, his much lower range means Nightshade can easily be overwhelmed by larger hordes. Competent positioning is required to maximize this plant's power.
+
+Pumpkin:
+- Toughness: 4000 > 2000
+- Cost: 150 > 125
+- Recharge: 30 > 15
+- Pumpkin's ability to considerably increase a plant's toughness is extremely powerful; however, vanilla Pumpkin's sluggish 30-second cooldown makes the plant feel sluggish to use in the fast paced PvZ2 meta. Pumpkin has been reworked to be much more affordable and capable of keeping up in faster levels in exchange for a heavy toughness nerf.
+
+Apple Mortar:
+- Damage: 30 > 120
+- Added Splash Damage: 60, 1x1 radius
+- Fire Rate: 1.7 > 5.4
+- Stun Duration: 0.75 > 0.0
+- Plant Food Damage: 250 > 480
+- Plant Food Stun Duration: 1.0 > 3.0
+- Cost: 250 > 450
+- Recharge: 8 > 15
+- Apple Mortar now lives up to his namesake – a powerful mortar that does great damage against groups. Compared to plants like Dandelion and Dusk Lobber, Apple provides the most consistent damage output and crowd control without any support.
+
+Guacodile:
+- Fire Rate: 1.35 > 1.0
+- Knockback Distance: 2.0 > 0.25
+- Guacodile is quite a flexible plant focused on cheap, immediate crowd control. However, the GE-buffed Guacodiles are able to knock zombies back a fair distance when they perform their rush, making them far too powerful at both stalling and dealing damage. The reworked Guacodiles now only do light knockback, but have a slight increase in their fire rate to compensate as well as to encourage players to use their pit shots more. 
+
+Hot Date:
+- Flame Damage: 1000 > 150
+- Attract Range: 3x3 > 3x6
+- Plant Food Attract Range: 3 lanes
+- Toughness: 2000 > 300
+- Cost: 175 > 75
+- Hot Date has been reworked from a defensive wall that incinerates zombies when defeated to a cheap crowd control option that deals light armor piercing damage when eaten.
+
+Fire Gourd:
+- Attack DPS: 150 > 250
+- Attack Duration: 5 > 3
+- Level 1 Charge Range: 1 > 3
+- Recover Lv.1: 6 > 10
+- Cost: 200 > 375
+- Recharge: 5 > 20
+- A new GE plant that is not broken on arrival! Fire Gourd remains mostly the same, but with its sun cost and recharge at similar level with Jack O' Lantern, as it simply is a manual version of said plant.
+
+Bamburrow:
+- Damage: 20 > 10
+- Plant Food Damage: 100 > 240
+- Plant Food Knockback: 1 > 2
+- Attack Distance: 4 > 4.5
+- Cost: 175 > 100
+- Recharge: 5 > 3
+- Bamburrow's vanilla iteration was already quite balanced, however, he simply did too much damage and provided too much utility, which invalidated Bloomerang, Fume-shroom, and Spikeweed to a degree. This rework aims to make him a VERY spammable Spikeweed with range in exchange for less damage.
+
+Endurian:
+- Damage: 10 > 15
+- Plant Food Damage: 15 > 30
+- Toughness: 3000 > 4000
+- Plant Food Armor: 3000 > 4000
+- Cost: 100 > 150
+- Recharge: 15 > 20
+- Endurian has been reworked to be a Wall-nut with damage, and its previous offensive wall niche will be placed upon the new Lychee!
+
+Lychee:
+- Damage: 20 > 25
+- Damage PF: 40 > 50
+- Health Needed per Hit: 100 > 90
+- Health Needed per Hit PF: 50 > 45
+- Toughness: 3000 > 1500
+- Recharge: 20 > 10
+- Lychee is now one of the most offensive wall plants sun can buy! Easily spammable, deals great AoE damage, giving it an edge against early swarms of weak zombies.
+
+Scaredy-shroom:
+- Fire Rate: 1.35 > 2.7
+- Knockback Chance: 0.2 > 1.0
+- Knock Distance: 0.2 > 0.05
+- Cost: 25 > 50
+- Vanilla Scaredy-shroom was quite overpowered for its incredibly cheap price tag of 25 sun and a very manageable weakness. The reworked Scaredy-shroom now functions as a cheap early game fighter that is capable of keeping stray zombies at bay with their guaranteed knockback per shot. Keep in mind that Scaredy-shroom is meant to be replaced by more powerful attackers as the level goes on due to its very lacking damage output.
+
+Gatling Pea:
+- Plant Food Pea Count: 60 > 30
+- Fire Rate: 0.9 > 1.35
+- Recharge: 5 > 20
+- Gatling Pea, now named after the Garden Warfare ability, has been reworked back to its simple PvZ 1 counterpart with no gimmick. Just constant stream of pea-based destruction!
+
+Mega Gatling Pea:
+- Name changed to Pea Burst
+- Plant Food Pea Count: 150 > 120
+- Plant Food Chance: 0.05 > 0.0
+- Fire Rate: 1.35 - 1.5 > 0.5 - 2.2
+- Cost: 450 > 525
+- Recharge: 5 > 20
+- Vanilla MGP's is simply an even heavier Gatling Pea with an ability to further boost its already ridiculous damage output. The new Pea Burst still plays into MGP's original random nature, but much less overpowered.
+
+Bamboozle:
+- Name changed to Bambarrier
+- Deals splash damage in a small area
+- Cost: 225 > 325
+- Toughness: 1000 > 2000
+- Basket Toughness: 2000 > 1200
+- Recharge: 15 > 20
+- I just want to kind of recreate RFL's Holly Barrier (until the plant comes, then I'll probably have to change Bambarrier into something else lol). Also I don't like the original name. What is so surprising about him? Maybe having bamboo hitting your head from the sky is surprising, but I think Bambarrier is more fun.
+
+Banana Launcher:
+- Damage: 1200 > 1800
+- Reload Time: 20 > 30
+- Recharge: 15 > 20
+Banana Launcher is now a lot more satisfying and devastating to use! Its bananas now does a boatload of damage, enough to bypass several threshold, in exchange for a much longer reload that requires careful thought and timing to not leave it vulnerable.
+
+Missile Toe:
+- Damage: 1200 > 150
+- Freeze Duration: 5 > 7.5
+- Chill Duration: 5 > 15
+- Reload Time: 20 > 45
+- Cost: 500 > 275
+- Recharge: 5 > 20
+- Missile Toe is no longer a straight upgrade to Banana Launcher, but a plant that applies AoE freeze on demand! Additionally, Missile Toe does light damage over a large radius, enough to remove any pesky critters caught in the blast.
+
+Marigold:
+- Changed pink Marigold plant list to early game plants (Squash, Hypno-shroom, etc.)
+- Production Rate: 23.5 > 16.5
+- Cost: 50 > 75
+- Recharge: 10 > 25
+- Marigold has been reworked to be a fun early game staller that uses random effects to fight off zombies. They can still useful late game or in specific strategies as a rapid coin producer.
+
+Shooting Starfruit:
+- Now uses its Plant Food projectile full time
+- Damage: 20 > 50
+- Added splash damage: 20 damage, 1x1 radius
+- Fire Rate: 1.35 > 2.0
+- Cost: 500 > 625
+- Recharge: 15 > 25
+- Vanilla Shooting Starfruit (S.Star) kind of underperformed when compared with plants in its price range. Why plant multiple S.Stars when you can have Winter Melons instead? The slight rework of Shooting Starfruit brings its potential firepower to match other heavy hitters and more satisfying to use.
+
+Moonflower:
+- Sun Production: 50, 75 when powered
+- Cost: 50 > 75
+- Recharge: 10 > 7.5
+- Moonflower is now less sluggish in the early game, allowing you to more easily set up a defense in exchange for a much lower production potential. Thinking of them as a slightly slower Sunflower with a shadow gimmick.
+
+A.K.E.E.:
+- Damage: 60 > 40
+- Bounce Limit: 4 > 3
+- Shots now stun zombies for 0.25 seconds
+- Autonomous Katalpulting Ejectomatic Emitter's newly added stun makes them more distinct from other piercers like Bloomerang and Cactus. A group of [im not gonna write that again] can easily slow down the horde, buying more time for heavy attackers to finish them off.

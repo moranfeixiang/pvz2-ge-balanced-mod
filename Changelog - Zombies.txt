@@ -1,0 +1,66 @@
+Welcome to maido's Rebalance mod! Paste this in-game: gePatcher.init(), and here are the changes:
+====== Basics ======
+Pirate & Beach Zombies:
+- Can now survive pothole tiles, much like Duckytubes
+
+Peasant Zombies:
+- Eat 50% faster (100 > 150 DPS), does not apply to other Dark Ages zombies
+
+Jurassic Zombies:
+- Eat 50% faster (100 > 150 DPS), move faster (0.185 > 0.2), lower HP (190 > 150)
+- Flag moves faster (0.27)
+
+Super-Fan Imp:
+- Moves slower (0.27 > 0.185)
+
+Summer Night Zombies:
+- Cannot be frozen (similar to Cave Zombies)
+
+Ra Zombie & Turquoise Skull:
+- Toughness: 190 > 350
+- Speed: 0.2 > 0.16
+
+Explorer Veteran:
+- Toughness: 650 > 250
+
+Pharaoh Zombie:
+- Immune to Chomper and Stunion when protected inside sarcophagus
+
+Drinking Zombie:
+- Takes less damage when drunk (0.5 > 0.15)
+- Moves slower when drunk (0.2 > 0.17)
+
+Drinking Monk:
+- Moves faster when drunk (0.2 > 0.6)
+- No damage resistance (0.5 > 1.0)
+
+Abbot Imp:
+- Takes 50% more damage when repelling projectiles
+- Less HP (600 > 400)
+- Shield duration: 12 > 5
+
+Abbot Qigong:
+- Less HP (1100 > 900)
+- Time before first blast: 6 > 7.5
+- Time between blasts: 12 > 15
+- More plants can be planted on its tile
+
+Rockpuncher:
+- Less HP (2470 > 2200)
+- Slower (0.16 > 0.14)
+- Scorched tile duration: 25 > 15
+
+King, Fisherman, and Abbot Qigong:
+- More plants can be placed on their tile (most instant-use and ground plants like spikeweeds)
+
+Fan Swinging Abbot:
+- Name changed to Abbot Fan o' War
+
+3 Section Staff Abbot:
+- Name changed to Abbot Staff Fighter
+- HP: 900 > 700
+- Reflect Duration: 4 > 3
+- Rest Time: 0 > 3
+====== Gargantuars ======
+Mummified Gargantuar:
+- Always drops Mummy when defeated
